@@ -7,3 +7,4 @@
   写法：<img src="../images/img.jpg">
 如果源是来自网上的 那就必须要用绝对路径
 写法：<img src="http://www.baidu.com/pic/img.jpg">
+一定要写宽度和高度
