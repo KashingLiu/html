@@ -1,0 +1,5 @@
+<html>
+<body>
+<a href="http://www.hao123.com">Click </a>
+</body>
+</html>
